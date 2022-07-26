@@ -2,11 +2,8 @@
 Backlog Automation Project
 Contributors:
 
-Archana 
-Arpitha
-Anirudh 
-Amogh Padukone
-Anupam 
+Siva Prakash Anupam 
+Archana
 
 
 
